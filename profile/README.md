@@ -1,4 +1,4 @@
-<img width="2560" height="712" alt="BumiLu" src="https://github.com/user-attachments/assets/239aa88d-080d-4046-b2be-0f797442acc3" />
+<img alt="BumiLu" src="https://github.com/user-attachments/assets/239aa88d-080d-4046-b2be-0f797442acc3" />
   
 ### Умный гид для путешествий без стресса
 
